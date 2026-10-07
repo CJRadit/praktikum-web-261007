@@ -16,7 +16,8 @@ Berdasarkan penilaian Google Gemini.
 
 <details>
     <summary>Gambar</summary>
-    ![](testimoni.webp)
+    
+![](testimoni.webp)
 </details>
 
 
@@ -42,19 +43,19 @@ Menangkap momen emosional secara jujur dan natural tanpa pose yang kaku, mencipt
 ## Testimoni
 
 - Bapak dan Ibu Reihan
-  "Kami sangat terkesan dengan profesionalisme dan kualitas hasil fotografi yang luar biasa. MomentoStudio telah membantu kami menciptakan momen tak terlupakan untuk pernikahan pertama kami."
+  - "Kami sangat terkesan dengan profesionalisme dan kualitas hasil fotografi yang luar biasa. MomentoStudio telah membantu kami menciptakan momen tak terlupakan untuk pernikahan pertama kami."
 
 - Suriyah
-  "Terima kasih sama MomentoStudio bantu kami bikin foto-foto keren untuk branding toko pastry saya."
+  - "Terima kasih sama MomentoStudio bantu kami bikin foto-foto keren untuk branding toko pastry saya."
 
 - Sandy
-  "Gak perlu dipertanyakan lagi! Fotografer ini super ramah dan fotonya juga bagus banget. Hasilnya keren banget!"
+  - "Gak perlu dipertanyakan lagi! Fotografer ini super ramah dan fotonya juga bagus banget. Hasilnya keren banget!"
 
 - Harry
-  "Fotografi portrait bisnis saya berjalan lebih baik karena tim mereka yang responsif dan profesional. Saya senang bisa bekerja sama dengan mereka untuk meningkatkan brand image perusahaan."
+  - "Fotografi portrait bisnis saya berjalan lebih baik karena tim mereka yang responsif dan profesional. Saya senang bisa bekerja sama dengan mereka untuk meningkatkan brand image perusahaan."
 
 - Sitohang
-  "Bekerja sama dengan mereka sangat mudah. Mereka responsif, cepat, dan hasilnya memuaskan. Saya suka banget sama gaya fotonya yang natural."
+  - "Bekerja sama dengan mereka sangat mudah. Mereka responsif, cepat, dan hasilnya memuaskan. Saya suka banget sama gaya fotonya yang natural."
 
 - ikhsangiring_041
-  "Fotografer ini memberikan layanan yang sangat memuaskan. Hasil jepretan foto yang dihasilkan sangat detail dan artistik, melebihi ekspektasi saya. Sangat direkomendasikan untuk bekerja dengan mereka."
+  - "Fotografer ini memberikan layanan yang sangat memuaskan. Hasil jepretan foto yang dihasilkan sangat detail dan artistik, melebihi ekspektasi saya. Sangat direkomendasikan untuk bekerja dengan mereka."
